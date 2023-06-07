@@ -1,4 +1,4 @@
-name: Publish on Release Published
+name: Main Workflow
 
 on:
   workflow_dispatch:
