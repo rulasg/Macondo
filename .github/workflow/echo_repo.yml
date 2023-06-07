@@ -1,4 +1,4 @@
-name: Publish on Release Published
+name: Release 1.1 WF
 
 on:
   workflow_dispatch:
